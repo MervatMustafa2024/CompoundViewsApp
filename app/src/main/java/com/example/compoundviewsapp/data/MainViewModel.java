@@ -1,4 +1,4 @@
-package com.example.compoundviewsapp;
+package com.example.compoundviewsapp.data;
 
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;

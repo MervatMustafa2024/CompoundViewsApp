@@ -1,12 +1,12 @@
-package com.example.compoundviewsapp;
+package com.example.compoundviewsapp.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.CompoundButton;
 import android.widget.Toast;
+
+import com.example.compoundviewsapp.data.MainViewModel;
 import com.example.compoundviewsapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
